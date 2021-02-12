@@ -12,8 +12,8 @@ import java.awt.*;
 
 public class Controller {
 
-   @FXML
-   public Button button;
+    @FXML
+    public Button button;
     @FXML
     public TextArea Text;
     @FXML
@@ -35,4 +35,5 @@ public class Controller {
 
         }
     }
+
 }
